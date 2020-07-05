@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Level3</key>
+	<dict>
+		<key>Kuslar</key>
+		<array>
+			<string>Kirmizi</string>
+			<string>Gri</string>
+			<string>Sari</string>
+		</array>
+	</dict>
+	<key>Level2</key>
+	<dict>
+		<key>Kuslar</key>
+		<array>
+			<string>Sari</string>
+			<string>Gri</string>
+			<string>Kirmizi</string>
+		</array>
+	</dict>
+	<key>Level1</key>
+	<dict>
+		<key>Kuslar</key>
+		<array>
+			<string>Gri</string>
+			<string>Kirmizi</string>
+			<string>Mavi</string>
+			<string>Sari</string>
+		</array>
+	</dict>
+</dict>
+</plist>
